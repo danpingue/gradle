@@ -10,6 +10,12 @@ import junit.framework.TestSuite;
 public class AppTest 
     extends TestCase
 {
+	
+	/**
+	 * Práctica segunda de maven
+	 */
+	
+	
     /**
      * Create the test case
      *
